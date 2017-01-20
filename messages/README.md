@@ -5,10 +5,10 @@ This is a little script to print a welcome message, and a programming quote when
 This script is called from .bashrc using ". ~/bin/startUp.sh"
 Since it is located in the .bashrc file, it is called whenever I log in.
 ##Output
----------------------------------------------------------------------------
+\---------------------------------------------------------------------------
 *****************            Welcome back Will!           *****************
 
 If debugging is the process of removing software bugs, then programming
 must be the process of putting them in.
                                                            -Edsger Dijkstra
----------------------------------------------------------------------------
+\---------------------------------------------------------------------------
