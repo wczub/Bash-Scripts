@@ -6,6 +6,7 @@ Copy this file into your workspace, and make it an executable. I have mine place
 Since it is located in the .bashrc file, it is called whenever I log in.
 ### Extra Information
 Feel free to change the quotes, but make sure to change the author as well. The first spot in the quote array corresponds to the first spot in the author array. If you would like to add more than 10 quotes 
+This script was inspired by [this post by Adithya](https://www.quora.com/What-is-the-most-interesting-shell-script-you-have-ever-written) showing a welcome message. I have changed a bit of it, but the core concept is the same. I plan on altering it further to allow between 1 and 60 quotes.
 ## Output
 ```text
 ---------------------------------------------------------------------------
